@@ -10,7 +10,7 @@
 * and finally [bandsintown](https://www.bandsintown.com/en)
 
 
-### I built a command line app using node.js which gives us the ability to find songs, bands and movies. We used the following sources: 
+### Then I need to build a command line app using node.js which gives us the ability to find songs, bands and movies. We used the following sources: 
 
 
 * [Spotify](www.spotify.com)
@@ -33,6 +33,8 @@
 ### Then finally I needed to do the following: 
 
 * create a .gitignore to prevent Github from publishing my API keys
+
+### I need to show .gifs of the interface. As soon as everything is working, I will input those. 
 
 
 
